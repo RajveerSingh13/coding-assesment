@@ -140,6 +140,10 @@ class ChessMoves {
     }
 }
 
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = { ChessBoard, ChessPiece, ChessMoves };
+}
+
 
 // Please add your input here
 // e.g.  ChessMoves.getAllPossibleMoves('King', 'B7')
