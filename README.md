@@ -10,13 +10,9 @@ Input validation and error handling
 
 
 Installation
-To run this file use online compiler like https://onecompiler.com/javascript or https://stackblitz.com/
-
-Or Simply download the JavaScript file and include it in your project:
-javascript// Include the below filer
-<script src="index.js"></script>
-
-Or copy the code directly into your JavaScript project.
+1. Install dependency using "npm install"
+2. Run this file using "node index.js"
+3. Run test cases using "npm test"
 
 Usage
 Examples :- 
